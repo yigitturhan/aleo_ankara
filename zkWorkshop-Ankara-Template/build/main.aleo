@@ -1,4 +1,4 @@
-program templateankara.aleo;
+program ayt_aleo_ankara.aleo;
 
 record token:
     owner as address.private;
